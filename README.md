@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Imdadcoder
 - 👀 I’m interested in ..coding.
 - 🌱 I’m currently learning . bachelor of engineering computer science.
-- 💞️ I’m looking to collaborate on .c programming..
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me . imdadulhaq.5903@gmail.com
 
 <!---
